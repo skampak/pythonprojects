@@ -1,0 +1,41 @@
+{
+"_id": "chr2:g.179542362_179542386del",
+"_score": 1.0,
+"alt": "T"
+},{
+"_id": "chr5:g.78280834del",
+"_score": 1.0,
+"alt": "A"
+},{
+"_id": "chrX:g.605369T>C",
+"_score": 1.0,
+"alt": "C"
+},{
+"_id": "chrX:g.48759204C>T",
+"_score": 1.0,
+"alt": "T"
+},{
+"_id": "chrX:g.49862832T>C",
+"_score": 1.0,
+"alt": "C"
+},{
+"_id": "chrX:g.37641437G>T",
+"_score": 1.0,
+"alt": "T"
+},{
+"_id": "chrX:g.38150674A>T",
+"_score": 1.0,
+"alt": "T"
+},{
+"_id": "chrX:g.69671869T>C",
+"_score": 1.0,
+"alt": "C"
+},{
+"_id": "chrX:g.48544017G>T",
+"_score": 1.0,
+"alt": "T"
+},{
+"_id": "chrX:g.66765165_66765166insGCAGCAGCAGCA",
+"_score": 1.0,
+"alt": "GGCAGCAGCAGCA"
+}
